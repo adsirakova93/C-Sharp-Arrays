@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.deps.json
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.json
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.dll
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.pdb
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.dll
+C:\Users\Acer\source\repos\Arrays - Excercises\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.pdb

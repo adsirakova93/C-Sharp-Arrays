@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.deps.json
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.json
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.pdb
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Acer\source\repos\Arrays - Excercises\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.pdb
